@@ -1,0 +1,15 @@
+{
+  "name": "alternative-elections",
+  "version": "1.0.0",
+  "description": "some data mapping to see how the seats in UK parliment are affected by different vote systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csv-parse": "^1.2.0"
+  }
+}

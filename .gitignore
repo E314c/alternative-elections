@@ -1,0 +1,7 @@
+#npm ignores
+node_modules/
+
+
+
+# Raw data (because you could go download it yourself)
+rawData/
